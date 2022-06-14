@@ -6,5 +6,6 @@ Tell me which Devil Fruit you want. ex.) Love-Love fruit (メロメロの実)
 
 # List
 Love-Love fruit
+Sand-Sand Fruit
 
 (add your favorite Devil fruit.)
