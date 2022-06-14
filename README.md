@@ -17,3 +17,4 @@ To complete the assignment, please do the following:
 
 # List of online game (or social game)
 1. Uma Musume: Pretty Derby
+2. HAGAKURE by Ryuki Yoshida
