@@ -23,4 +23,5 @@ To complete the assignment, please do the following:
 5. BanG Dream!
 6. FGO
 7. Apex Legends
+8. Among us
 
