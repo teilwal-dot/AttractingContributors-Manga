@@ -22,3 +22,5 @@ To complete the assignment, please do the following:
 4. Dragon Quest 10
 5. BanG Dream!
 6. FGO
+7. Apex Legends
+
