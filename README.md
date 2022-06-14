@@ -19,7 +19,7 @@ To complete the assignment, please do the following:
 Please teach me your favorite McDonald's menu
 
 # List of Hobby
-1.
+1.ポテト(S)  
 2.
 3.
 4.
