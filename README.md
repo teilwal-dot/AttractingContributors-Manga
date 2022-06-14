@@ -9,3 +9,5 @@ Love-Love fruit
 Sand-Sand Fruit
 
 (add your favorite Devil fruit.)
+- Hie hie no mi
+- Mera mera no mi
