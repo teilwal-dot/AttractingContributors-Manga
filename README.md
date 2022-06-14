@@ -20,3 +20,4 @@ To complete the assignment, please do the following:
 2. HAGAKURE by Ryuki Yoshida
 3. gensinn impact
 4. Dragon Quest 10
+5. BanG Dream!
