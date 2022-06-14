@@ -21,3 +21,4 @@ To complete the assignment, please do the following:
 3. gensinn impact
 4. Dragon Quest 10
 5. BanG Dream!
+6. Apex Legends
