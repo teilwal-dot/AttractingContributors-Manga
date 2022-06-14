@@ -18,7 +18,9 @@ To complete the assignment, please do the following:
 # List of online game (or social game)
 1. Uma Musume: Pretty Derby
 2. HAGAKURE by Ryuki Yoshida
-3. gensinn impact
+3. genshin impact
 4. Dragon Quest 10
 5. BanG Dream!
-6. Apex Legends
+6. FGO
+7. Apex Legends
+
