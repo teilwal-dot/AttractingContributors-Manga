@@ -16,12 +16,12 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # List of online game (or social game)
-1. Uma Musume: Pretty Derby
-2. HAGAKURE by Ryuki Yoshida
-3. genshin impact
-4. Dragon Quest 10
-5. BanG Dream!
-6. FGO
-7. Apex Legends
-8. VALORANT
-9. Among us
+ex. Uma Musume: Pretty Derby
+1. HAGAKURE by Ryuki Yoshida
+2. genshin impact
+3. Dragon Quest 10
+4. BanG Dream!
+5. FGO
+6. Apex Legends
+7. VALORANT
+8. Among us
