@@ -15,9 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (useful software)
+Please tell me your useful application or software for research.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of softwares
+1. DeepL
+2. Grammaly
+3. Slack
+4. SlideCodeHighliter
+5. TeXclip
+6. Notion
+7. Google Drive
+8. Dropbox
+9. Overleaf
+10. your idea!
