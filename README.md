@@ -26,4 +26,5 @@ ex. Uma Musume: Pretty Derby
 7. VALORANT
 8. Among us
 9. League of Legends
-10. Vainglory
+10. Valorant
+Vainglory
