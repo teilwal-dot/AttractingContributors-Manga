@@ -25,5 +25,7 @@ Goal-I want contributors to help me finishing this assignment
 
 # List of Your Favorite Netflix Show
 1. Brooklyn Nine-Nine(Example)
-2. BAIOHAZARD
-3. Stranger Things
+2. 斉木楠雄のΨ難
+3. BAIOHAZARD
+4. Stranger Things
+
