@@ -32,3 +32,4 @@ Please vote your favourite Manga following lists
 11. クレヨンしんちゃん
 12. ブラックジャック
 
+14. Shadow house
