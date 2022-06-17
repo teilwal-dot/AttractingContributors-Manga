@@ -21,9 +21,9 @@ Please teach me your favorite McDonald's menu
 # List of Hobby
 1.ポテト(S)  
 2.チキン マクナゲット(15 ピース)  
-3.マックポーク
-4.
-5.
+3.マックポーク  
+4.ハンバーガー  
+5.グランドビックマック  
 6.
 7.
 8.
