@@ -1,8 +1,36 @@
-# Favorite YouTube Videos
-Please share your favorite YouTube Videos!
+# Attracting Contributors
+As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-# List of Videos
-- Who can say no to cat videos? https://www.youtube.com/watch?v=KIePsbJSS04
-- Smooth Piano Jazz in Cozy Bedroom 4K in New York - Instrumental Music to Relax, Study, Work, Chill https://www.youtube.com/watch?v=OysREqyZYSg&ab_channel=CozyApartment
-- [ポルノグラフィティ - サウダージ / THE FIRST TAKE](https://www.youtube.com/watch?v=41c9vRZ4mB4)
-- Life could be a dream (https://www.youtube.com/watch?v=6Cr_8tvvQ0k)
+# Rules
+
+1. Please choose a hobby or some interest that you want to build your repository
+2. Make a README to announce this theme (i.e., my favourite video games or anime)
+3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
+4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
+
+# Tell me your favorite Manga!
+あなたの好きな漫画を教えてください。
+どんなジャンルでもOKです！
+
+Please tell me your favorite Manga.
+Any genre is fine with me!
+
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# List of Manga
+Please vote your favourite Manga following lists 
+1. HunterXHunter
+2. LIAR GAME
+3. 寄生獣
+4. ドラえもん
+5. ヒカルの碁
+6. 静かなるドン
+7. セトウツミ
+8. ブラックアリス
+9. ちはやふる
+10. アイシールド21
+11. クレヨンしんちゃん
+12. ブラックジャック
+13. デスノート
+14. Shadow house
+15. Akira
