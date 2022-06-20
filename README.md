@@ -33,3 +33,4 @@ Please vote your favourite Manga following lists
 12. ブラックジャック
 13. デスノート
 14. Shadow house
+15. Akira
